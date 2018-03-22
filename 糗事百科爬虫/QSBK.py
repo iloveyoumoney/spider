@@ -1,9 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 __author__='JS'
-__date__='2018.03.13'
+__date__='2018.03.20'
 
-#实战小项目：糗事百科—我的第一个小爬虫
 import re
 import requests
 import time
